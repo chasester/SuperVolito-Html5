@@ -173,6 +173,6 @@ Module['FS_createPath']('/HoverHax/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 89, "filename": "/UE4CommandLine.txt"}, {"start": 89, "audio": 0, "end": 57485703, "filename": "/HoverHax/Content/Paks/HoverHax-HTML5.pak"}], "remote_package_size": 57485703, "package_uuid": "75155f84-48bd-4726-bbcd-0d7b378faf6d"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 89, "filename": "/UE4CommandLine.txt"}, {"start": 89, "audio": 0, "end": 76574662, "filename": "/HoverHax/Content/Paks/HoverHax-HTML5.pak"}], "remote_package_size": 76574662, "package_uuid": "8f4bbc71-63c5-4796-9b82-0fa7d0c18200"});
 
 })();
